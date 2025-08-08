@@ -27,6 +27,9 @@
 .App {
   text-align: center;
 }
+li {
+  font-size: medium;
+}
 
 .App-logo {
   height: 40vmin;
@@ -55,6 +58,7 @@
     animation-name: h1;
     animation-duration: 5s;
   }  
+
   @keyframes h1 {
     0% {background-color: green;}
     25% {background-color: blue;}
@@ -83,13 +87,13 @@ li:hover {
   background-color: rgb(121, 84, 40);
   color: black;
 }
-h3:hover {
+h5 {
   background-color: gold;
   color: indigo;
 }
-h5 {
-  background-color: lime;
-  color: #282c34;
+h5:hover {
+  background-color: green;
+  color: white;
 
 }
 

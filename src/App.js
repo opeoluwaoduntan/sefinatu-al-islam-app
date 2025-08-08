@@ -6,17 +6,17 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-        <h1>SEFINATU AL-ISLAM</h1>
-        <h3>INSTITUTE OF POLICE DISCIPLINE AND DISCIPLINARY STUDIES</h3>
-    <p>In collaboration with <strong>Sefinatu Al-Islam</strong>, affiliate with us and benefits</p>
+      
+        <h1>INSTITUTE OF POLICE DISCIPLINE AND DISCIPLINARY STUDIES</h1>
+        
+    <p className="sefi">In collaboration with <strong>Sefinatu Al-Islam</strong>, affiliate with us and benefits;</p>
     <ul>
         <li>Course Certificate</li>
         <li>Earn #3m for promoting Discipline/offcycle retirement.</li>
         <li>Interest free Loans and credit facilities.</li>
         <li>Appeal writting for Dismissal or Rank Reduction.</li>
         <li>Advised on Orderly Room Trial Problems.</li>
-        <li>Hlep SPO with Query and Disciplinary Issues.</li>
+        <li>Help SPO with Query and Disciplinary Issues.</li>
         <li>Aid Dismissed Police Officer get Pension Benefits.</li>
         <li>Paid #500,000 for Dismissed Officer. </li>
         <li>#100,000 each for Medical or Legal Assitance.</li>
@@ -28,8 +28,10 @@ function App() {
     <h5 className="protect">PROTECT YOUR JOB AND NEVER WAIT UNTIL TOO LATE!</h5>
     <p className="phone"><strong>CALL</strong> 08037040092</p>
     <section className="civil">
-    <h3>CIVILIAN PLATFORM</h3>
-    <p>Our Institute also runs Community Policing Platform.For Civilians where immense benefits can be enjoyed as follows:</p>
+      <h6>TERMS AND CONDITIONS APPLY</h6>
+
+    <h1>CIVILIAN PLATFORM</h1>
+    <p className="our">Our Institute also runs Community Policing Platform.For Civilians where immense benefits can be enjoyed as follows;</p>
     <ul>
         <li>Certificate Course on Security.</li>
         <li>Free Legal Advice.</li>
@@ -39,7 +41,7 @@ function App() {
         <li>Bail Bond Processses and Guarantor.</li>
         <li>Private Investigation Dutiess.</li>
         <li>Defend of Human Righs.</li>
-        <li>Counseling on Rtirement plans.</li>
+        <li>Counseling on Retirement plans.</li>
         <li>Road Accident Investigations and Insurance .</li>
         <li>Free Interet Loan.</li>
         <li>Dept bying and Finance.</li>
@@ -48,12 +50,12 @@ function App() {
     </ul>
     <h5 className="protect">PROTECT YOUR JOB AND NEVER WAIT UNTIL TOO LATE !</h5>
     <p className="phone"><strong>CALL</strong> 08037040092</p>
+    <h6>TERMS AND CONDITIONS APPLY</h6>
     </section>
-    <footer>This website app is created by <strong>opeoluwa </strong>.whatsapp or call<code> 08160698617.</code></footer>
-    
+    <footer><p>This website app is developed by <strong>opeoluwa </strong>whatsapp or call<code> 08160698617</code></p>
+    </footer>
     
 
-        </p>
       </header>
     </div>
   );
