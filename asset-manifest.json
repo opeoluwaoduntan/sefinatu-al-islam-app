@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sefinatu-al-islam-app/static/css/main.2a0b177f.css",
-    "main.js": "/sefinatu-al-islam-app/static/js/main.2dbcb495.js",
+    "main.css": "/sefinatu-al-islam-app/static/css/main.6fbbff13.css",
+    "main.js": "/sefinatu-al-islam-app/static/js/main.e9b208ce.js",
     "static/js/453.5e577c2b.chunk.js": "/sefinatu-al-islam-app/static/js/453.5e577c2b.chunk.js",
     "static/media/logo.svg": "/sefinatu-al-islam-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sefinatu-al-islam-app/index.html",
-    "main.2a0b177f.css.map": "/sefinatu-al-islam-app/static/css/main.2a0b177f.css.map",
-    "main.2dbcb495.js.map": "/sefinatu-al-islam-app/static/js/main.2dbcb495.js.map",
+    "main.6fbbff13.css.map": "/sefinatu-al-islam-app/static/css/main.6fbbff13.css.map",
+    "main.e9b208ce.js.map": "/sefinatu-al-islam-app/static/js/main.e9b208ce.js.map",
     "453.5e577c2b.chunk.js.map": "/sefinatu-al-islam-app/static/js/453.5e577c2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a0b177f.css",
-    "static/js/main.2dbcb495.js"
+    "static/css/main.6fbbff13.css",
+    "static/js/main.e9b208ce.js"
   ]
 }
